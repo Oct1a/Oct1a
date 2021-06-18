@@ -9,7 +9,7 @@
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 - 📫 Email me at: Oct1a@dllca.cn
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=Oct1a)
 
 ------
 
