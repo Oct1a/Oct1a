@@ -5,7 +5,7 @@
 - 🌱 Learning all about: ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ✏️ Arch Linux & KDE & Oh My Zsh & VS Code
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
-- 📫 Email me at: Oct1a@dllca.cn
+- 📫 Email me at: Oct1a@outlook.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Oct1a)
 
